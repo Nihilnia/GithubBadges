@@ -1,6 +1,6 @@
 # GithubBadges
 
-## Features
+## Languages
 | Badge | Link |
 | :---------------- | :-------  |
 | ![](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/HTML.svg)    | `https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/HTML.svg` |
